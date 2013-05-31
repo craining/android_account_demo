@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">账户</string>
+    <string name="accoynt_type">account_type_zgy</string>
+    <string name="account_label">我的账户</string>
+
+</resources>

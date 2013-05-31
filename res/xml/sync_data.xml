@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sync-adapter xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accountType="@string/accoynt_type"
+    android:contentAuthority="com.zgy.accounts.provider"
+    android:supportsUploading="true"
+    android:userVisible="true" /> <!-- 系统的同步项 -->

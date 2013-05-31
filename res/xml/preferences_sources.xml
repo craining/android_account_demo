@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="同步时机设置" />
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="privacy_contacts"
+        android:summary="每次开启软件时自动同步"
+        android:title="开启时同步" />
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="allow_mail"
+        android:summary="每次连接wifi时自动同步"
+        android:title="联网自动同步" />
+
+</PreferenceScreen><!--  -->
